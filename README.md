@@ -1,69 +1,56 @@
-# Hey, I'm becoming giant 🚀
+# DeFi Developer | AI Agent Engineer | Hackathon Winner
 
-**DeFi Developer | AI/Autonomous Agent Engineer | Prompt Engineering Specialist**
+I build software at the intersection of DeFi, autonomous agents, and AI. My work spans smart contracts, protocol integration, execution systems, and LLM-based workflows. I’ve built projects in flash-loan arbitrage, on-chain agent automation, and prompt engineering, with a focus on real-world execution and reliability.
 
-I build production systems at the intersection of **DeFi protocols**, **autonomous agents**, and **AI engineering**. Experienced in designing robust, tested solutions that work under real-world constraints.
+## Core focus
 
----
+- DeFi tooling and protocol integration
+- Smart contracts and blockchain execution
+- Autonomous AI agents for on-chain workflows
+- LLM evaluation, prompt engineering, and AI reliability
+- Trading and execution systems
 
-## 🏆 Notable Work
+## Featured projects
 
-| Project | Description | Achievement |
-|---------|-------------|-------------|
-| **[aaveFlashLoan](https://github.com/becominggiant/aaveFlashLoan)** | Arbitrage bot using Aave flashloans + Uniswap | 🥇 1st Place — Gitcoin x Aave Hackathon |
-| **[agentfi-executor](https://github.com/becominggiant/agentfi-executor)** | ERC-8004 AI Agent for on-chain DeFi execution | Autonomous agent framework for profit exploration |
-| **[cryptocurrency_arbitrage](https://github.com/becominggiant/cryptocurrency_arbitrage)** | High-frequency pairwise & triangular arbitrage detector | Production trading bot with real results |
-| **[prompt-engineering-portfolio](https://github.com/becominggiant/prompt-engineering-portfolio)** | Systematic prompt engineering, red-teaming, evaluation | Demonstrates iteration, metrics, and robustness testing |
+### aaveFlashLoan
+1st Place winner in the Gitcoin x Aave Hackathon.
+A flash-loan arbitrage system built with Aave and Uniswap, demonstrating atomic DeFi execution and protocol integration.
 
----
+### agentfi-executor
+Autonomous AI agent for on-chain DeFi execution and opportunity discovery.
+Built around agent identity, tool access, and execution workflows for blockchain use cases.
 
-## 🛠️ Core Skills
+### prompt-engineering-portfolio
+Portfolio of prompt engineering experiments focused on evaluation, iteration, robustness, and adversarial testing.
 
-**Smart Contracts & DeFi**
-- Solidity, Vyper, Flash Loans, DEX Integration (Uniswap, Kyber)
-- Arbitrage mechanics, market microstructure
-- Truffle, Web3.js, contract testing & deployment
+### cryptocurrency_arbitrage
+Algorithmic arbitrage bot for pairwise and triangular crypto trading opportunities, with a focus on market microstructure and execution logic.
 
-**Autonomous Agents & AI**
-- Agent frameworks (ERC-8004), MCP, Model Context Protocol
-- LLM integration, prompt engineering & evaluation
-- Python, agent orchestration, on-chain execution
+## Skills
 
-**Data & Analysis**
-- Python, Jupyter, statistical analysis
-- Financial data modeling, backtesting
-- ML for market signals
+- Smart contracts
+- Solidity
+- Vyper
+- Web3.js
+- Python
+- DeFi protocol integrations
+- Uniswap / Aave / DEX logic
+- Autonomous agents
+- LLM and prompt engineering
+- AI evaluation and reliability
+- Trading strategy and market analysis
 
----
+## Looking for
 
-## 🎯 Currently Exploring
+Open to software engineering, DeFi, AI, and autonomous systems roles.
+I’m especially interested in opportunities involving:
 
-- Production-grade autonomous agents for DeFi
-- Prompt engineering for reliability & robustness
-- Agent reputation systems and tokenization
-- Multi-model evaluation frameworks
+- DeFi development
+- autonomous agent systems
+- smart contracts
+- AI tooling and evaluation
+- trading and execution systems
 
----
+## Connect
 
-## 📊 By The Numbers
-
-- **1 Hackathon Win** (1st Place, Gitcoin x Aave)
-- **4 Production Projects** (DeFi + AI focus)
-- **3 Bootcamp Completions** (Data Science, DevOps, AI/Prompt Engineering)
-- **Profitable Trading Bot** in live deployment
-
----
-
-## 📫 Let's Connect
-
-Looking for opportunities in:
-- **Autonomous Agent Engineering**
-- **DeFi Protocol Development**  
-- **AI/LLM Evaluation & Prompt Engineering**
-- **Quantitative Trading / Market Microstructure**
-
-**Open to**: Remote roles, contract work, or building together.
-
----
-
-*Last updated: September 2026 | [View all repos](https://github.com/becominggiant?tab=repositories)*
+GitHub: https://github.com/becominggiant
