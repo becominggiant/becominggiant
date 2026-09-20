@@ -1,56 +1,41 @@
-# DeFi Developer | AI Agent Engineer | Hackathon Winner
+# AI Automation & Agent Engineer
 
-I build software at the intersection of DeFi, autonomous agents, and AI. My work spans smart contracts, protocol integration, execution systems, and LLM-based workflows. I’ve built projects in flash-loan arbitrage, on-chain agent automation, and prompt engineering, with a focus on real-world execution and reliability.
+I build LLM workflows, multimodal pipelines, and autonomous agents — then measure whether they actually work.
 
-## Core focus
+Python-first. US-based. Looking for remote applied-AI / automation work (prompts, APIs, agents, RAG, content pipelines).
 
-- DeFi tooling and protocol integration
-- Smart contracts and blockchain execution
-- Autonomous AI agents for on-chain workflows
-- LLM evaluation, prompt engineering, and AI reliability
-- Trading and execution systems
+## What I ship
 
-## Featured projects
+- **LLM workflows** — prompt design, evaluation, red-teaming, structured outputs
+- **Agents** — tool use, MCP / A2A-style orchestration, on-chain agent identity (ERC-8004)
+- **Multimodal pipelines** — audio → transcript → clips → publish
+- **Data + APIs** — Python, JSON/REST, notebooks, simple pipelines
+- **DeFi / execution systems** — protocol integration, arbitrage experiments, hackathon work
 
-### aaveFlashLoan
-1st Place winner in the Gitcoin x Aave Hackathon.
-A flash-loan arbitrage system built with Aave and Uniswap, demonstrating atomic DeFi execution and protocol integration.
+## Featured (start here)
 
-### agentfi-executor
-Autonomous AI agent for on-chain DeFi execution and opportunity discovery.
-Built around agent identity, tool access, and execution workflows for blockchain use cases.
+| Repo | What it proves |
+|---|---|
+| [prompt-engineering-portfolio](https://github.com/becominggiant/prompt-engineering-portfolio) | Iteration, evals, robustness, prompt injection testing |
+| [agentfi-executor](https://github.com/becominggiant/agentfi-executor) | Autonomous agent + tool/identity workflow for on-chain tasks |
+| [facelessIG](https://github.com/becominggiant/facelessIG) | Multimodal content pipeline: audio in, video clips out |
+| [game_analysis](https://github.com/becominggiant/game_analysis) | TripleTen data analysis + prediction project |
 
-### prompt-engineering-portfolio
-Portfolio of prompt engineering experiments focused on evaluation, iteration, robustness, and adversarial testing.
+## Stack I actually use
 
-### cryptocurrency_arbitrage
-Algorithmic arbitrage bot for pairwise and triangular crypto trading opportunities, with a focus on market microstructure and execution logic.
+`Python` · `JavaScript / TypeScript` · LLM APIs · prompt eval · agents · REST/JSON · Jupyter · Solidity (projects)
 
-## Skills
+## Background
 
-- Smart contracts
-- Solidity
-- Vyper
-- Web3.js
-- Python
-- DeFi protocol integrations
-- Uniswap / Aave / DEX logic
-- Autonomous agents
-- LLM and prompt engineering
-- AI evaluation and reliability
-- Trading strategy and market analysis
+- Data Science bootcamp — TripleTen
+- DevOps bootcamp — Nucamp
+- Gitcoin × Aave hackathon (flash-loan arbitrage project)
+- Ongoing personal automation, agents, and AI content experiments
 
 ## Looking for
 
-Open to software engineering, DeFi, AI, and autonomous systems roles.
-I’m especially interested in opportunities involving:
+Remote **AI Automation / Prompt / LLM evaluation / agent** roles. Contract or full-time. US only.
 
-- DeFi development
-- autonomous agent systems
-- smart contracts
-- AI tooling and evaluation
-- trading and execution systems
+---
 
-## Connect
-
-GitHub: https://github.com/becominggiant
+*Profile README lives in this repo. Keep this repository **public** so it renders on github.com/becominggiant.*
