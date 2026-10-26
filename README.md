@@ -1,41 +1,29 @@
-# AI Automation & Agent Engineer
+# Hi, I'm Chanel 👋
 
-I build LLM workflows, multimodal pipelines, and autonomous agents — then measure whether they actually work.
+I build practical **AI automation**: multi-agent systems, LLM workflows, and pipelines that turn manual work into reliable software. Based in Minneapolis. Background in **TripleTen Data Science** and **Nucamp DevOps**.
 
-Python-first. US-based. Looking for remote applied-AI / automation work (prompts, APIs, agents, RAG, content pipelines).
+🎯 **Open to:** AI Automation Engineer / AI Agent Engineer roles (remote, US)
 
-## What I ship
+## 🧰 Stack
 
-- **LLM workflows** — prompt design, evaluation, red-teaming, structured outputs
-- **Agents** — tool use, MCP / A2A-style orchestration, on-chain agent identity (ERC-8004)
-- **Multimodal pipelines** — audio → transcript → clips → publish
-- **Data + APIs** — Python, JSON/REST, notebooks, simple pipelines
-- **DeFi / execution systems** — protocol integration, arbitrage experiments, hackathon work
+- **Languages:** Python, TypeScript/JavaScript
+- **Agents & LLMs:** OpenAI API, Claude, LangGraph / LangChain
+- **Backend:** FastAPI, Pydantic, Uvicorn
+- **Automation:** n8n, GitHub Actions
+- **Media:** faster-whisper, FFmpeg
+- **Quality:** golden-case evals, regression gates, prompt-injection tests
 
-## Featured (start here)
+## 🚀 Featured projects
 
-| Repo | What it proves |
+| Project | What it does |
 |---|---|
-| [prompt-engineering-portfolio](https://github.com/becominggiant/prompt-engineering-portfolio) | Iteration, evals, robustness, prompt injection testing |
-| [agentfi-executor](https://github.com/becominggiant/agentfi-executor) | Autonomous agent + tool/identity workflow for on-chain tasks |
-| [facelessIG](https://github.com/becominggiant/facelessIG) | Multimodal content pipeline: audio in, video clips out |
-| [game_analysis](https://github.com/becominggiant/game_analysis) | TripleTen data analysis + prediction project |
+| [whatnot-automation-agent](https://github.com/becominggiant/whatnot-automation-agent) | FastAPI multi-agent ops backend for a Whatnot business: inventory, orders, sourcing, and profit agents. |
+| [agent-eval-harness](https://github.com/becominggiant/agent-eval-harness) | CI eval harness for LLM agents: golden cases, accuracy/latency/cost scoring, and regression gates on every PR. |
+| [whatnot-sourcing-agent](https://github.com/becominggiant/whatnot-sourcing-agent) | AI sourcing pipeline that scans resale marketplaces, estimates margin after fees, and alerts on high-profit deals. |
+| [facelessIG](https://github.com/becominggiant/facelessIG) | Speech-to-Shorts pipeline: faster-whisper transcripts → clip candidates → FFmpeg 9:16 renders via GitHub Actions. |
+| [prompt-engineering-portfolio](https://github.com/becominggiant/prompt-engineering-portfolio) | Prompts treated like code: versioned prompts, attack suites, and evaluation rubrics. |
+| [aaveFlashLoan](https://github.com/becominggiant/aaveFlashLoan) | Aave flash-loan project — 1st place hackathon build. |
 
-## Stack I actually use
+## 📫 Contact
 
-`Python` · `JavaScript / TypeScript` · LLM APIs · prompt eval · agents · REST/JSON · Jupyter · Solidity (projects)
-
-## Background
-
-- Data Science bootcamp — TripleTen
-- DevOps bootcamp — Nucamp
-- Gitcoin × Aave hackathon (flash-loan arbitrage project)
-- Ongoing personal automation, agents, and AI content experiments
-
-## Looking for
-
-Remote **AI Automation / Prompt / LLM evaluation / agent** roles. Contract or full-time. US only.
-
----
-
-*Profile README lives in this repo. Keep this repository **public** so it renders on github.com/becominggiant.*
+- GitHub: [@becominggiant](https://github.com/becominggiant)
