@@ -17,12 +17,12 @@ I build practical **AI automation**: multi-agent systems, LLM workflows, and pip
 
 | Project | What it does |
 |---|---|
+| [seller-support-agent](https://github.com/becominggiant/seller-support-agent) | LangGraph multi-agent seller support: classify → tool call → draft → confidence gate, with prompt-injection evals and CI. |
 | [whatnot-automation-agent](https://github.com/becominggiant/whatnot-automation-agent) | FastAPI multi-agent ops backend for a Whatnot business: inventory, orders, sourcing, and profit agents. |
 | [agent-eval-harness](https://github.com/becominggiant/agent-eval-harness) | CI eval harness for LLM agents: golden cases, accuracy/latency/cost scoring, and regression gates on every PR. |
 | [whatnot-sourcing-agent](https://github.com/becominggiant/whatnot-sourcing-agent) | AI sourcing pipeline that scans resale marketplaces, estimates margin after fees, and alerts on high-profit deals. |
 | [facelessIG](https://github.com/becominggiant/facelessIG) | Speech-to-Shorts pipeline: faster-whisper transcripts → clip candidates → FFmpeg 9:16 renders via GitHub Actions. |
 | [prompt-engineering-portfolio](https://github.com/becominggiant/prompt-engineering-portfolio) | Prompts treated like code: versioned prompts, attack suites, and evaluation rubrics. |
-| [aaveFlashLoan](https://github.com/becominggiant/aaveFlashLoan) | Aave flash-loan project — 1st place hackathon build. |
 
 ## 📫 Contact
 
