@@ -26,6 +26,4 @@ I build practical **AI automation**: multi-agent systems, LLM workflows, and pip
 
 ## 📫 Contact
 
-- Email: [chanelchatham@gmail.com](mailto:chanelchatham@gmail.com)
 - GitHub: [@becominggiant](https://github.com/becominggiant)
-- LinkedIn: coming soon
