@@ -28,3 +28,4 @@ I build practical **AI automation**: multi-agent systems, LLM workflows, and pip
 
 - Email: [chanelchatham@gmail.com](mailto:chanelchatham@gmail.com)
 - GitHub: [@becominggiant](https://github.com/becominggiant)
+- LinkedIn: [Chanel Chatham](https://www.linkedin.com/in/chanel-chatham-a217073b8)
